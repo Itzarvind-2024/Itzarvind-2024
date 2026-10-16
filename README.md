@@ -15,6 +15,6 @@ I also lead code reviews for a 4–6 member team and have mentored 6+ interns.
 
 **Currently building:** `booking-api`, an event booking backend with Django, PostgreSQL, Redis, Celery and Docker.
 
-📂 **Portfolio and case studies:** [[https://arvindvishwakarma.vercel.app/]]
+📂 **Portfolio and case studies:** https://arvindvishwakarma.vercel.app/
 💼 **LinkedIn:** [linkedin.com/in/arvind1106](https://linkedin.com/in/arvind1106)
 ✉️ **Email:** arvind.20203033@gmail.com
