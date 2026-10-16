@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Arvind 👋
 
-<!--
-**Itzarvind-2024/Itzarvind-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full-Stack Developer with 2.5+ years building software that keeps a business running, even when the internet doesn't.
 
-Here are some ideas to get you started:
+At a healthcare-retail startup I own an **offline-first pharmacy POS and inventory platform** used daily in 10+ stores:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desktop apps in **Flutter** and **React + Tauri**, built for keyboard-only billing (40% faster per customer)
+- **Django** backends on each store's machine, with two-way cloud sync and peer-to-peer sync between billing counters
+- Offline medical search over **450,000+ products** in under 15 ms
+- Automated Windows releases; new-store onboarding cut from **2 hours to 7 minutes**
+
+I also lead code reviews for a 4–6 member team and have mentored 6+ interns.
+
+**Tech:** Python · Django · DRF · React · TypeScript · Flutter · Node.js · MongoDB · PostgreSQL · Redis · GCP · Docker
+
+**Currently building:** `booking-api`, an event booking backend with Django, PostgreSQL, Redis, Celery and Docker.
+
+📂 **Portfolio and case studies:** [your portfolio link]
+💼 **LinkedIn:** [linkedin.com/in/arvind1106](https://linkedin.com/in/arvind1106)
+✉️ **Email:** arvind.20203033@gmail.com
